@@ -94,3 +94,4 @@ x509.genkey
 linaro-7.2
 zimage
 cbuild.sh
+dtbToolCM
